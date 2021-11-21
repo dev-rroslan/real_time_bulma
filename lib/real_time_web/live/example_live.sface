@@ -1,0 +1,3 @@
+ <ExampleComponent>
+     <h1 class="is-size-1 is-primary has-text-centered"> Hi there!</h1>
+ </ExampleComponent>
